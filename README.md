@@ -53,8 +53,8 @@ ________________________________________
 🚀 Conclusion
 This project demonstrates how data analysis can be used to uncover valuable business insights in the retail/bookstore domain. It showcases the importance of visualization and data-driven strategies in improving inventory management and boosting sales performance.
 ________________________________________
-🔗 Connect with Me
-👉 LinkedIn
+🔗 Connect with me on LinkedIn
+👉https://www.linkedin.com/in/rohil-sen-813702392/
 ________________________________________
 🏷️ Hashtags
 #DataAnalysis #DataAnalytics #EDA #ExploratoryDataAnalysis #DataVisualization #Analytics #BusinessInsights
