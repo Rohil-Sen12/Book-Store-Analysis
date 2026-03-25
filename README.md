@@ -1,5 +1,7 @@
 📖 Book Store Analysis
+
 📊 Project Overview
+
 The Book Store Analysis project focuses on extracting meaningful insights from bookstore data to understand business performance and customer trends. Through data analysis and visualization, this project highlights key factors such as author popularity, stock distribution, and sales behavior.
 This analysis enables better decision-making by identifying high-performing areas and potential opportunities for growth.
 ________________________________________
