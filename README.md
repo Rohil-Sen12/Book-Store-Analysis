@@ -1,4 +1,7 @@
 📖 Book-Store-Analysis
+
+
+
 📊 Project Overview
 This project focuses on analyzing book store data to identify key business insights such as top-performing authors, stock distribution, and sales patterns.
 
@@ -10,6 +13,8 @@ The analysis helps in:
 4.Supporting data-driven business decisions
 
 🛠️ Tools & Technologies Used
+
+
 Python 🐍
 Pandas
 NumPy
