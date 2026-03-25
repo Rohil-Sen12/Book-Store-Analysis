@@ -24,10 +24,15 @@ Plotly
 4.Visualization using bar charts and graphs
 5.Interactive charts using Plotly
 
+🔗 Connect with me on LinkedIn
+👉https://www.linkedin.com/in/rohil-sen-813702392/
 
 #DataAnalysis #DataAnalytics #EDA #ExploratoryDataAnalysis #DataVisualization #Analytics #BusinessInsightsLibraries You Used
 
 #Pandas #NumPy #Matplotlib #Seaborn #Plotly
+
+👨‍💻 Author Rohil Sen
+
 
 
 
